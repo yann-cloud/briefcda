@@ -7,5 +7,5 @@ app.get('/', (req, res) =>{
 });
 
 app.listen('8082', () =>{
-    console.log('server disponible at port 8082');
+    console.log('server is disponible at port 8082');
 })
